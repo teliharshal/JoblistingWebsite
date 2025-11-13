@@ -1,6 +1,6 @@
 # 💼 JobListing Project
 
-A full-stack job listing application where users can view job posts and post new job openings. This project uses **Spring Boot (Maven)** for the backend, **React.js** for the frontend, and **MongoDB** as the database.
+A full-stack job listing application where users can view job posts and post new job openings. This project uses **Spring Boot (Maven)** for the backend, **React.js** for the frontend, and **MySQL** as the database.
 
 ---
 
@@ -10,13 +10,13 @@ A full-stack job listing application where users can view job posts and post new
 - **Spring Boot**
 
 - **Maven** (for dependency management)
-- **MongoDB** (NoSQL database)
+- **MySQL** (SQL database)
 - **Spring Web** (for building REST APIs)
 
 ### Frontend
 - **React.js**
 - **Axios** (for API calls)
-- **Bootstrap / Tailwind CSS** (optional styling)
+- **Tailwind CSS** (optional styling)
 
 ---
 
