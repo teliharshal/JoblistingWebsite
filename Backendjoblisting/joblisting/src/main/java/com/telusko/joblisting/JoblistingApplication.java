@@ -30,6 +30,7 @@ public class JoblistingApplication {
 	}
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(JoblistingApplication.class, args);
 	}
 

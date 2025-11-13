@@ -8,6 +8,7 @@ A full-stack job listing application where users can view job posts and post new
 
 ### Backend
 - **Spring Boot**
+
 - **Maven** (for dependency management)
 - **MongoDB** (NoSQL database)
 - **Spring Web** (for building REST APIs)
